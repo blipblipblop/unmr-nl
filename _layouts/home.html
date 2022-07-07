@@ -9,7 +9,7 @@ layout: default
     {% else %}
       {% capture image_source %}{{ site.url }}/assets/images/{{ page.image.cover }}{% endcapture %}
     {% endif %}
-    <img src="{{ image_source }}" alt="{{ page.title }} cover image">
+    <img src="{{ page.image.cover }}" alt="{{ page.title }} cover image" | relative_url>
     {% if page.image.credit %}
       <span class="image-credit">image by: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
     {% endif %}

@@ -5,7 +5,7 @@ excerpt: "ultrahigh-field NMR for the Netherlands"
 tags: [NMR, Structural Biology, Computational Biology, Modelling, Protein Structure]
 
 image:
-   cover: pages/home_page_cover_image.jpg
+   cover: /assets/images/pages/home_page_cover_image.jpg
 
 author_profile: 
    false

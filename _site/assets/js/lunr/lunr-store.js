@@ -387,6 +387,9 @@ var store = [{
     "excerpt":"*under construction*  ","url": "http://localhost:4000/organization/team-members/"
   },{
     "title": null,
+    "excerpt":"@import \"jekyll-theme-minimal\"; ","url": "http://localhost:4000/assets/css/style.css"
+  },{
+    "title": null,
     "excerpt":"","url": "http://localhost:4000/page2/"
   },{
     "title": null,
