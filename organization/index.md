@@ -6,8 +6,8 @@ image:
    banner: pages/organization_page_banner_image.jpg
 ---
 
-## [Associate partners](/organization/associate-partners)
+## [Associate partners](/unmr-nl/organization/associate-partners)
 
-## [International advisory board](/organization/advisory-board)
+## [International advisory board](/unmr-nl//organization/advisory-board)
 
-## [Team members](/organization/team-members)
+## [Team members](unmr-nl/organization/team-members)
